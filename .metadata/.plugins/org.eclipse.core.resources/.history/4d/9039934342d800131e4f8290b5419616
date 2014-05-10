@@ -1,0 +1,7 @@
+package com.power;
+
+public class SimplePowerImpl extends new Runnable() {
+	public void run() {
+		
+	}
+}

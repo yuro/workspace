@@ -1,0 +1,10 @@
+
+.metadata/.log
+
+*.index
+
+*.snap
+
+*.class
+
+*.snap

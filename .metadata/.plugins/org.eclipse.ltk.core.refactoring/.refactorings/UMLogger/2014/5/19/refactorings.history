@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;PowerEstimator.java&apos; to &apos;Power_android/src/com.power.service&apos;&#x0A;- Original project: &apos;UMLogger&apos;&#x0A;- Destination element: &apos;Power_android/src/com.power.service&apos;&#x0A;- Original element: &apos;edu.umich.PowerTutor.service.PowerEstimator.java&apos;" description="Copy compilation unit" destination="=Power_android/src&lt;com.power.service" element1="/src&lt;edu.umich.PowerTutor.service{PowerEstimator.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1399726589854" units="1" version="1.0"/>
+</session>
